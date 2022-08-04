@@ -144,6 +144,10 @@ h1{
     display: block;
 }
 
+.card p{
+    padding-top: 0.8rem;
+}
+
 .card>img{
     float: right;
     padding-top: 2.5rem;
